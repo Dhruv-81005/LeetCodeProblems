@@ -6,3 +6,4 @@ Clear Digits   https://leetcode.com/problems/clear-digits/description/?envType=d
 Remove All Occurrences of a Substring  https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/?envType=daily-question&envId=2025-02-11
 Max Sum of a Pair With Equal Sum of Digits  https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/?envType=daily-question&envId=2025-02-12
 Minimum Operations to Exceed Threshold Value II  https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13
+Product of the Last K Numbers https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14 
