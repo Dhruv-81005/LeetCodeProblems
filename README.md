@@ -12,3 +12,4 @@ Construct Binary Tree from Preorder and Postorder Traversal  https://leetcode.co
 Most Profitable Path in a Tree  https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24
 Apply Operations to an Array  https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01
 Merge Two 2D Arrays by Summing Values  https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02
+Partition Array According to Given Pivot  https://leetcode.com/problems/partition-array-according-to-given-pivot/description/?envType=daily-question&envId=2025-03-03
