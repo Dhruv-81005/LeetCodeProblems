@@ -17,3 +17,4 @@ Check if Number is a Sum of Powers of Three  https://leetcode.com/problems/check
  Count Total Number of Colored Cells  https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05
  Find Missing and Repeated Values  https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06
 Closest Prime Numbers in Range  https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07
+Minimum Recolors to Get K Consecutive Black Blocks  https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08
