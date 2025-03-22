@@ -28,4 +28,5 @@ Minimum Recolors to Get K Consecutive Black Blocks  https://leetcode.com/problem
   Minimum Time to Repair Cars  https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16
   Divide Array Into Equal Pairs  https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17
   Longest Nice Subarray https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18 
+  Minimum Operations to Make Binary Array Elements Equal to One I  https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19
 
