@@ -30,5 +30,7 @@ Minimum Recolors to Get K Consecutive Black Blocks  https://leetcode.com/problem
   Longest Nice Subarray https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18 
   Minimum Operations to Make Binary Array Elements Equal to One I  https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19
 Minimum Cost Walk in Weighted Graph  https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20
+Find All Possible Recipes from Given Supplies  https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21
+
   
 
